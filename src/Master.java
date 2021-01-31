@@ -10,4 +10,5 @@
  */
 public class Master {
     private int master1;
+    private int master2;
 }
