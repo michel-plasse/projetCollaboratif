@@ -9,5 +9,5 @@
  * @author michel
  */
 public class Master {
-  
+    private int master1;
 }
